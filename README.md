@@ -124,3 +124,4 @@ Details for the implementation of the solution, deployment strategy, team struct
 - ### [Team Structure](team_structure/README.md)
 - ### [MVP and Estimation](mvp_and_estimation/README.md)
 - ### [Support and Maintenance](support_and_maintenance/README.md)
+- ### [Distaster Recovery Plan](disaster-recovery-plan/README.md)
